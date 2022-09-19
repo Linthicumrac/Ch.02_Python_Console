@@ -27,10 +27,10 @@ print(a)
 print(type(a))
 #  4.) What is the mistake in the following code. Fix it!
 x, y = (4, 5)
-a = 3 * x + 3 * y
+a = (3 * x) + (3 * y)
 print(a)
 # had to state "print(a)" so that what A equals is going to be written
 #  5.) What is the mistake in the following code so it will calculate the average. Fix it!
 x, y, z = (3, 4, 5)
-ave = x + y + z / 3
+ave = (x + y + z) / 3
 print(ave)
