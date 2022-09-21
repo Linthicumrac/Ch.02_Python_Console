@@ -2,7 +2,7 @@
 #  1.) How do you enter a single line comment in a program? Give an example.
 #  use the hashtag (#) sign
 # comment example
-#  2.) Enter a=2 and b=5 in the Python Console window and then all of the following.
+#  2.) Enter a=2 and b=5 in the Python Console window and then all the following.
 #  What are the outputs? If the output is an error record the error and try to determine what the error is!
 a = 2
 b = 5
@@ -29,8 +29,8 @@ print(type(a))
 x, y = (4, 5)
 a = (3 * x) + (3 * y)
 print(a)
-# had to state "print(a)" so that what A equals is going to be written
-#  5.) What is the mistake in the following code so it will calculate the average. Fix it!
+# had to state "print(a)" so that what A equals are going to be written
+#  5.) What is the mistake in the following code, so it will calculate the average. Fix it!
 x, y, z = (3, 4, 5)
 ave = (x + y + z) / 3
 print(ave)
